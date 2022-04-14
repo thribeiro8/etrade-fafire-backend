@@ -1,0 +1,5 @@
+com\clientecidade\ClienteCidade\service\ClienteService.class
+com\clientecidade\ClienteCidade\entity\Cliente.class
+com\clientecidade\ClienteCidade\repository\ClienteRepository.class
+com\clientecidade\ClienteCidade\ClienteCidadeApplication.class
+com\clientecidade\ClienteCidade\controller\ClienteController.class
